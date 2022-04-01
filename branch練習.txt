@@ -3,5 +3,8 @@ int b= 7 ;
 if (a+b>10){
 
 Console .WriteLine ("比10大");
+}
+else{
 
+Console .WriteLine ("比10小");
 }
