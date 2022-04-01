@@ -3,5 +3,12 @@ int b= 7 ;
 if (a+b>10){
 
 Console .WriteLine ("比10大");
+}
+else if (a*b < 40)
+{
+Console .WriteLine ("5*7小於40");
+}
+else{
 
+Console .WriteLine ("比10小");
 }
